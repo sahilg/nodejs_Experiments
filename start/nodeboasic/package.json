@@ -1,0 +1,14 @@
+{
+  "name": "nodeboasic",
+  "version": "0.0.0",
+  "description": "Keep track of an airline's flight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahil <sahilg@usc.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
